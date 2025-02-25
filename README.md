@@ -1,5 +1,5 @@
 
-<img src="https://www.linkedin.com/in/md-shobuz-islam-a5663325a/">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQFfZHodYwzHCg/profile-displaybackgroundimage-shrink_350_1400/B56ZU99lfgGUAk-/0/1740501311028?e=1746057600&v=beta&t=Av9FQEP2Eaj1WFDlvNcFsTAnKUVHglyBr2ZKim1bmPs">
 <h1 align="center">Hi 👋, I'm Shobuz Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
