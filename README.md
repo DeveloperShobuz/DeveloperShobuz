@@ -1,5 +1,5 @@
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQFMDz4HkLGuVg/profile-displaybackgroundimage-shrink_200_800/B56ZUyiEOWHsAU-/0/1740309547313?e=1746057600&v=beta&t=fXpmRlsTcJEJx_hFgK77QXimeniTS5NHYIUU3NO1AC4">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHXlbFMjnmwMA/profile-displaybackgroundimage-shrink_350_1400/B56ZU9aa6fGUAY-/0/1740492092659?e=1746057600&v=beta&t=hLTwggsxhLZLt6c-oaTqsZqV7sIY_tANKKay2Pt4KBY">
 <h1 align="center">Hi 👋, I'm Shobuz Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
